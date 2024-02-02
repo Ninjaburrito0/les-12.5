@@ -1,0 +1,78 @@
+#aap {
+    background-color: aliceblue;
+}
+
+#plaatje aap {
+    background-color: antiquewhite;
+}
+
+#gras {
+    background-color: green
+}
+
+#plaatje-gras {
+    background-color: aqua;
+}
+
+#tijger {
+    background-color: aquamarine;
+}
+
+#plaatje-tijger {
+    background-color: azure;
+}
+
+#plant {
+    background-color: beige;
+}
+
+#plaatje-plant {
+    background-color: bisque;
+}
+
+#ezel {
+    background-color: blanchedalmond;
+}
+
+#plaatje-ezel {
+    background-color: blue;
+}
+
+#cactus {
+    background-color: blueviolet;
+}
+
+#plaatje-cactus {
+    background-color: brown;
+}
+
+#cobra {
+    background-color: rgb(206, 126, 126);
+}
+
+#plaatje-cobra {
+    background-color: rgb(97, 97, 161);
+}
+
+#tak {
+    background-color: rgb(38, 145, 83);
+}
+
+#plaatje-tak {
+    background-color: rgb(168, 168, 109);
+}
+
+header {
+    background-color: rgb(119, 102, 77);
+    width: 200px ;
+    height: 200px ;
+
+    
+
+}
+
+footer {
+    background-color: rgb(133, 38, 125);
+    width: 200px ;
+    height: 200px ;
+}
